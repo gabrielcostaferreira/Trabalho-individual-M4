@@ -1,7 +1,7 @@
 Existem outras entidades além dessas três?
 Sim, além dessas três eu acrescentei facilitador, que vai auxiliar na aprendizagem dos alunos.
 
-Quais são os principais campo e tipos?
+Quais são os principais campos e tipos?
 ID do tipo int (um inteiro de tamanho normal)
 
 Nome com o tipo varchar (Uma sequência de caracteres de texto de tamanho a ser definido)
